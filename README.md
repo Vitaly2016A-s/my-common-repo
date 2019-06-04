@@ -19,6 +19,6 @@ Repository with a common things, media, articles and other
 ## Codes
 
 ### Скрипт мгновенного переключения между аккаунтами Git
-[Git Account Change](https://github.com/Vitaly2016A-s/my-common-repo/blob/master/codes/bash/git-account-shange.sh)
+[Git Account Change](https://github.com/Vitaly2016A-s/my-common-repo/blob/master/codes/bash/git-account-change.sh)
 
 @
