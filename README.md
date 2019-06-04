@@ -15,4 +15,10 @@ Repository with a common things, media, articles and other
 [.md](https://github.com/Vitaly2016A-s/my-common-repo/blob/master/articles/markdown/whats-boys-is-girls-like.md)
 [.pdf](https://github.com/Vitaly2016A-s/my-common-repo/blob/master/articles/pdf/whats-boys-is-girls-like.pdf)
 
+
+## Codes
+
+### Скрипт мгновенного переключения между аккаунтами Git
+[Git Account Change](https://github.com/Vitaly2016A-s/my-common-repo/blob/master/codes/bash/git-account-shange.sh)
+
 @
