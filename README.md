@@ -16,6 +16,12 @@ Repository with a common things, media, articles and other
 [.pdf](https://github.com/Vitaly2016A-s/my-common-repo/blob/master/articles/pdf/whats-boys-is-girls-like.pdf)
 
 
+## Plans
+
+### FreeCodeCamp lessons plan
+[Plan List](https://github.com/Vitaly2016A-s/my-common-repo/blob/master/plans/Plan-of-FreeCodeCamp-lessons.md)
+
+
 ## Codes
 
 ### Скрипт мгновенного переключения между аккаунтами Git
