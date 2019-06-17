@@ -20,6 +20,8 @@ Repository with a common things, media, articles and other
 
 ### FreeCodeCamp lessons plan
 [Plan List](https://github.com/Vitaly2016A-s/my-common-repo/blob/master/plans/Plan-of-FreeCodeCamp-lessons.md)
+### jGreenRoom Project
+[Project document](https://github.com/Vitaly2016A-s/my-common-repo/blob/master/plans/jGreenRoom.md)
 
 
 ## Codes
